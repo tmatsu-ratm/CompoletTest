@@ -1,0 +1,16 @@
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.exe
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.deps.json
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.runtimeconfig.json
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.runtimeconfig.dev.json
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.dll
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Console.pdb
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.csprojAssemblyReference.cache
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.AssemblyInfoInputs.cache
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.AssemblyInfo.cs
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.csproj.CopyComplete
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.dll
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.pdb
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\obj\Debug\netcoreapp3.1\CompoletTest.Console.genruntimeconfig.cache
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Library.dll
+C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Console\bin\Debug\netcoreapp3.1\CompoletTest.Library.pdb
