@@ -26,7 +26,7 @@ namespace CompoletTest.WinForms
             _mmf = MemoryMappedFile.CreateNew("ToLD", 1024);
             _accessor = _mmf.CreateViewAccessor();
             _mmf2 = MemoryMappedFile.CreateNew("ToLD2", 1024);
-            _accessor2 = _mmf.CreateViewAccessor();
+            _accessor2 = _mmf2.CreateViewAccessor();
             timer1.Start();
         }
 
@@ -50,7 +50,7 @@ namespace CompoletTest.WinForms
                 WriteDataToLD(receiveData);
                 UpDateTMView(receiveData);
             }
-
+            
             // LD → EV
             var sendData2 = new DataStruct(BOOLSIZE, INTSIZE);
             if (GetDataFromLD2(out sendData2))
@@ -64,7 +64,7 @@ namespace CompoletTest.WinForms
             {
                 WriteDataToLD2(receiveData2);
             }
-
+            
             timer1.Start();
         }
 
@@ -244,8 +244,8 @@ namespace CompoletTest.WinForms
 
         private void WriteDataToLD2(DataStruct receiveData)
         {
-            _accessor.WriteArray(0, receiveData.bitData, 0, receiveData.bitData.Length);
-            _accessor.WriteArray(sizeof(bool) * receiveData.bitData.Length, receiveData.intData, 0, receiveData.intData.Length);
+            _accessor2.WriteArray(0, receiveData.bitData, 0, receiveData.bitData.Length);
+            _accessor2.WriteArray(sizeof(bool) * receiveData.bitData.Length, receiveData.intData, 0, receiveData.intData.Length);
         }
 
     }

@@ -7,3 +7,12 @@ C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Library\obj\Debug\netcorea
 C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.dll
 C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.pdb
 C:\Users\taro_\source\repos\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.csprojAssemblyReference.cache
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\bin\Debug\netcoreapp3.1\CompoletTest.Library.deps.json
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\bin\Debug\netcoreapp3.1\CompoletTest.Library.dll
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\bin\Debug\netcoreapp3.1\CompoletTest.Library.pdb
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.csprojAssemblyReference.cache
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.AssemblyInfoInputs.cache
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.AssemblyInfo.cs
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.csproj.CoreCompileInputs.cache
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.dll
+C:\Users\taro_\Source\Repos\tmatsu-ratm\CompoletTest\CompoletTest.Library\obj\Debug\netcoreapp3.1\CompoletTest.Library.pdb

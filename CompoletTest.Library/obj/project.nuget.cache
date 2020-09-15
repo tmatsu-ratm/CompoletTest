@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6spvcXyjWkjmd87YKrUjGW2dOQqLMArPwgh/3q6zUO40Ie4t9LQzhL+Bmpv2rSPF2eUeFBxMqBIExonf5orQ2Q==",
+  "dgSpecHash": "/GqmckoKZyuOsFNVk+bzwRNSa9tsc8Ld8ptpe440APE3NWv2T6anqQhXoMkexyVKRgnhYxHIZYqxsqJDpk8Hjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\taro_\\source\\repos\\CompoletTest\\CompoletTest.Library\\CompoletTest.Library.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\taro_\\Source\\Repos\\tmatsu-ratm\\CompoletTest\\CompoletTest.Library\\CompoletTest.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taro_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
